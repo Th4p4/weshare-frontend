@@ -1,0 +1,11 @@
+.place-list {
+    list-style: none;
+    margin: 2rem auto;
+    padding: 10;
+    width: 90%;
+    max-width: 40rem;
+  }
+.show_places {
+  padding: 2rem;
+}
+  
